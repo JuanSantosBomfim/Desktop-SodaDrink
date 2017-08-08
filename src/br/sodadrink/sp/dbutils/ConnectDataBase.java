@@ -10,7 +10,8 @@ import com.mysql.jdbc.exceptions.jdbc4.CommunicationsException;
 
 DAO = Data Access Object
 
-DCO = objeto configurável dinamicamente ?*/
+DCO = objeto configurável dinamicamente */
+
 public class ConnectDataBase {
 
 	static Connection con = null;
